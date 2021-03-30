@@ -53,6 +53,9 @@
 *   [Toot!](https://apps.apple.com/us/app/toot/id1229021451) \-适用于 iOS 的 Mastodon 客户端。
 *   [Sengi](https://nicolasconstant.github.io/sengi/) \-Mastodon 和 Pleroma 的面向桌面的 [Web](https://nicolasconstant.github.io/sengi/) 应用程序，专注于多帐户使用。
 
+
+> 以下内容尚未完成汉化及更新，敬请期待
+
 ## 服务器（节点）
 
 *   [Mastodon\-](https://joinmastodon.org/) 最著名的微博平台。
