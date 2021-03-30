@@ -9,7 +9,7 @@
 
 有别于Twitter，此服务定位成独立运作的小型社区和基于社区的（而不是由上而下的）审查和服务运营。这些社区可以合作互通但不互相依赖。如同[Twitter](https://cjhredirect.now.sh/wikipedia/zh-cn.html?s=Twitter "Twitter")，Mastodon支持用户间发送私密消息，但与[Twitter](https://cjhredirect.now.sh/wikipedia/zh-cn.html?s=Twitter "Twitter")张贴的“推文”不同，Mastodon的“嘟文”可以是：对用户私密、对用户的追踪者私密，对特定实例公开、或透过实例网络公开。联邦式的Mastodon实体组成 [联邦世界](https://zh.wikipedia.org/w/index.php?title=Fediverse&action=edit&redlink=1)（英语 ：[Fediverse](https://en.wikipedia.org/wiki/Fediverse "en:Fediverse") ） 。
 
-> 简介摘自维基百科 https://zh.wikipedia.org/wiki/Mastodon
+> 简介摘自xx百科
 
 ## 内容
 
@@ -29,7 +29,7 @@
 ## 官方
 > Mastodon 官方资源
 
-*   [网站](https://joinmastodon.org)
+*   [网站]()
 *   [GitHub资料库](https://github.com/tootsuite/mastodon)
 *   [文档和官方解释](https://docs.joinmastodon.org/)
 *   [API文档](https://docs.joinmastodon.org/client/intro/)
@@ -54,7 +54,7 @@
 *   [Sengi](https://nicolasconstant.github.io/sengi/) \-Mastodon 和 Pleroma 的面向桌面的 [Web](https://nicolasconstant.github.io/sengi/) 应用程序，专注于多帐户使用。
 
 
-> 以下内容尚未完成汉化及更新，敬请期待
+> 以下内容尚未完成更新，敬请期待
 
 ## 服务器（节点）
 
@@ -129,7 +129,6 @@
 *   [@ lemondebot @ mastodon.xyz](https://mastodon.xyz/@lemondebot) \-Le Monde。
 *   [@ libe @ mamot.fr\-](https://mamot.fr/@libe) 解放。
 *   [@ lecanardenchaine @ mamot.fr](https://mamot.fr/@lecanardenchaine) \-Le CanardEnchaîné。
-*   [@ lefigaro @ mastodon.xyz\-](https://mastodon.xyz/@lefigaro) 费加罗报
 *   [@ lesjoursfr @ mamot.fr](https://mamot.fr/@lesjoursfr) \-Les Jours。
 *   [@ mdiplo @ mamot.fr](https://mamot.fr/@mdiplo) \-Le Monde Diplomatique。
 *   [@ Mediapart @ mastodon.social](https://mastodon.social/@Mediapart) \-Mediapart服务（非actif）。
