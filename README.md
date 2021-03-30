@@ -9,7 +9,7 @@
 
 有别于Twitter，此服务定位成独立运作的小型社区和基于社区的（而不是由上而下的）审查和服务运营。这些社区可以合作互通但不互相依赖。如同[Twitter](https://cjhredirect.now.sh/wikipedia/zh-cn.html?s=Twitter "Twitter")，Mastodon支持用户间发送私密消息，但与[Twitter](https://cjhredirect.now.sh/wikipedia/zh-cn.html?s=Twitter "Twitter")张贴的“推文”不同，Mastodon的“嘟文”可以是：对用户私密、对用户的追踪者私密，对特定实例公开、或透过实例网络公开。联邦式的Mastodon实体组成 [联邦世界](https://zh.wikipedia.org/w/index.php?title=Fediverse&action=edit&redlink=1)（英语 ：[Fediverse](https://en.wikipedia.org/wiki/Fediverse "en:Fediverse") ） 。
 
-> 简介摘自xx百科
+> 简介摘自xx百科（Gitee 政策原因）
 
 ## 内容
 
